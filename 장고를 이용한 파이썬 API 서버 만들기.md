@@ -105,7 +105,7 @@ python manage.py runserver
 ```
 </p></br></br>
 
-그 다음에는 https://localhost:8000/ URL로 접속한 뒤 {'message': 'hello'} 라는 리턴이 나오는지 확인해 보고, 하위 path에 bye, whoami 등의 입력을 해서 테스트해 보시면 끝입니다. 제대로 따라했다면 아래와 같은 형태의 화면이 나올겁니다.
+그 다음에는 http://localhost:8000/ URL로 접속한 뒤 {'message': 'hello'} 라는 리턴이 나오는지 확인해 보고, 하위 path에 bye, whoami 등의 입력을 해서 테스트해 보시면 끝입니다. 제대로 따라했다면 아래와 같은 형태의 화면이 나올겁니다.
 </p></br></br>
 
 <center><img src="./data/api/api_test.png"></center>
